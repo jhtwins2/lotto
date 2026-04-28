@@ -1,0 +1,14 @@
+{
+  "name": "로또 번호 생성기",
+  "short_name": "로또",
+  "description": "동행복권 공식 색상 로또 번호 생성기",
+  "start_url": "/lotto/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
